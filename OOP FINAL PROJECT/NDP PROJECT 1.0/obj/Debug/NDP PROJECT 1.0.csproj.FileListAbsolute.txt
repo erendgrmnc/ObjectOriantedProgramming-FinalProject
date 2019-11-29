@@ -1,0 +1,10 @@
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\bin\Debug\NDP PROJECT 1.0.exe.config
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\bin\Debug\NDP PROJECT 1.0.exe
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\bin\Debug\NDP PROJECT 1.0.pdb
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\obj\Debug\NDP PROJECT 1.0.csprojAssemblyReference.cache
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\obj\Debug\NDP_PROJECT_1._0.Properties.Resources.resources
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\obj\Debug\NDP PROJECT 1.0.csproj.GenerateResource.cache
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\obj\Debug\NDP PROJECT 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\obj\Debug\NDP PROJECT 1.0.exe
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\obj\Debug\NDP PROJECT 1.0.pdb
+C:\Users\Eren Değirmenci\source\repos\NDP PROJECT 1.0\NDP PROJECT 1.0\obj\Debug\NDP_PROJECT_1._0.Coop.resources
